@@ -1,4 +1,4 @@
-# Codeforces_problems
+# Codeforces problems
 Python
 #concatanization of strings in a print statement
 #strings to list covertion 
